@@ -1,4 +1,4 @@
-<h1 align="center">👋 เด็กชาย "ก้องรักสยาม"</h1>
+<h1 align="center">👋 "ก้องรักสยาม สตูดิโอ"</h1>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
