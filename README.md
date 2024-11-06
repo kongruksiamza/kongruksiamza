@@ -23,8 +23,6 @@
 </div>
 
 ---
-### Languages and Tools :
----
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="35" height="35"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="35" height="35"/>  
