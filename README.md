@@ -23,7 +23,7 @@
   <img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="20" height="20"/>
 </div>
 
-## Youtube Channel
+## เรียนเขียนโปรแกรมฟรีผ่าน Youtube
 
 <div id="youtube">
   <a href="https://www.youtube.com/@KongRuksiamOfficial">
