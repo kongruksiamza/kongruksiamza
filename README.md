@@ -37,3 +37,11 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
 </div>
+
+--- 
+
+<p align="center">
+  <a href="https://github.com/kongruksiamza">
+    <img src="https://skillicons.dev/icons?i=angular,blender,bootstrap,c,cs,cpp,css,dart,django,docker,dotnet,express,fastapi,firebase,flask,flutter,git,go,godot,html,java,javascript,kotlin,kubernetes,laravel,matlab,mongodb,mysql,nextjs,nodejs,nuxtjs,opencv,php,postgres,postman,py,qt,react,spring,sqlite,sklearn,solidity,tailwind,tensorflow,ts,unity,unreal,vue&perline=8" />
+  </a>
+</p>
