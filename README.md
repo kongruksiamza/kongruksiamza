@@ -20,4 +20,5 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+  <img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="20" height="20"/>
 </div>
