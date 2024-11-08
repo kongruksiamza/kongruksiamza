@@ -75,4 +75,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/> 
+<img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="vuejs" width="30" height="30"/> 
 </div>
