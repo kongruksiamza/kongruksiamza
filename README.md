@@ -18,6 +18,9 @@
   <a href="https://www.tiktok.com/@kongruksiamstudio" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
+  <img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="20" height="20"/>
 </div>
 
 <h2 align="center">เรียนเขียนโปรแกรมฟรีผ่าน Youtube</h2>
@@ -33,7 +36,4 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UCQ1r_4x-P-fETLIU4pqf98w" width="120"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
-  <img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="20" height="20"/>
 </div>
