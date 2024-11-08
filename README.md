@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/media/qxkWWoBKK4jXG/giphy.gif" width="100"/>
-</div>
-
 <h1 align="center">👋 "ก้องรักสยาม สตูดิโอ"</h1>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
