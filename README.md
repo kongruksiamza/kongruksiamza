@@ -48,7 +48,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="30" height="30"/>    
+<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="json" width="30" height="30"/>
+<img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="30" height="30"/>  
@@ -74,6 +75,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="30" height="30"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/> 
-<img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="vuejs" width="30" height="30"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>  
 </div>
