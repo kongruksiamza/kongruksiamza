@@ -33,7 +33,11 @@
     <img src="https://yt3.googleusercontent.com/ytc/AIdro_k_NmcINdh2WOvILC7zrBFAf9R8ymWoiIOlVuefirX96Wg=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
   </a>
   <br>
+  <a href="https://www.youtube.com/@KongRuksiamOfficial">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCQ1r_4x-P-fETLIU4pqf98w" width="120"/>
+  </a>
   &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@KongRuksiamTutorial">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
+  </a>
 </div>
