@@ -20,6 +20,9 @@
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
+## ⚙️ หลักสูตรฟรีที่จะเปิดให้เรียนเร็ว ๆ นี้ (Coming Soon)
+![pending](https://skillicons.dev/icons?i=angular,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,vscode)
+
 <h2>👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา</h2>
 <div id="youtube">
   <a href="https://www.youtube.com/@KongRuksiamOfficial">
