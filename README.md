@@ -20,7 +20,7 @@
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
-<h2>👋 เรียนเขียนโปรแกรมฟรีผ่าน Youtube</h2>
+<h2>👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา</h2>
 <div id="youtube">
   <a href="https://www.youtube.com/@KongRuksiamOfficial">
     <img src="https://yt3.googleusercontent.com/2eVBbUulBZpKRScD4FPQLIWoDn80C3xirBy9v7ce4rL6qHE3msq-tss64ZTc7ugrsmRRdNa9=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
