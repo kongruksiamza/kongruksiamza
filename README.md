@@ -1,4 +1,32 @@
-<h1 align="center">👋 "ก้องรักสยาม สตูดิโอ"</h1>
+## 🎓 แนวทางการเรียนรู้ (Programmer's Roadmap)
+- [การพัฒนาเว็บแอพพลิเคชั่น (Web Development Guideline)](#)
+- [การพัฒนาเกม (Game Development Guideline)](#)
+- [การพัฒนาแอพบน Android & iOS (Mobile Application Development Guideline)](#)
+- [การเขียนโปรแกรมภาษา Python (Python Development Guideline)](#)
+- [การเขียนโปรแกรมภาษา Java (Java Development Guideline)](#)
+- [การเขียนโปรแกรมภาษา C# (C# Development Guideline)](#)
+- [การจัดการฐานข้อมูล (Database Management)](#)
+- [เอกสารสอนเขียนโปรแกรมฟรี (.pdf)](https://github.com/kongruksiamza/ebook-for-education) 
+
+<h2>👋 เรียนเขียนโปรแกรมฟรีผ่าน Youtube</h2>
+<div id="youtube">
+  <a href="https://www.youtube.com/@KongRuksiamOfficial">
+    <img src="https://yt3.googleusercontent.com/2eVBbUulBZpKRScD4FPQLIWoDn80C3xirBy9v7ce4rL6qHE3msq-tss64ZTc7ugrsmRRdNa9=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@KongRuksiamTutorial">
+    <img src="https://yt3.googleusercontent.com/ytc/AIdro_k_NmcINdh2WOvILC7zrBFAf9R8ymWoiIOlVuefirX96Wg=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
+  </a>
+  <br>
+  <a href="https://www.youtube.com/@KongRuksiamOfficial">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCQ1r_4x-P-fETLIU4pqf98w" width="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@KongRuksiamTutorial">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
+  </a>
+</div>
+<hr>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -23,23 +51,4 @@
     <img src="https://komarev.com/ghpvc/?username=kongruksiamza&style=flat-square&color=blue" alt="kongruksiamza"/>
   </a>
   <img src="https://github.com/kongruksiamza/kongruksiamza/blob/222265a39f1d652d70e0f50bfbf985b1793f7d05/ladybug.gif" alt="bugs" width="20" height="20"/>
-</div>
-
-<h2>เรียนเขียนโปรแกรมฟรีผ่าน Youtube</h2>
-<div id="youtube">
-  <a href="https://www.youtube.com/@KongRuksiamOfficial">
-    <img src="https://yt3.googleusercontent.com/2eVBbUulBZpKRScD4FPQLIWoDn80C3xirBy9v7ce4rL6qHE3msq-tss64ZTc7ugrsmRRdNa9=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@KongRuksiamTutorial">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_k_NmcINdh2WOvILC7zrBFAf9R8ymWoiIOlVuefirX96Wg=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
-  </a>
-  <br>
-  <a href="https://www.youtube.com/@KongRuksiamOfficial">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCQ1r_4x-P-fETLIU4pqf98w" width="120"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@KongRuksiamTutorial">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
-  </a>
 </div>
