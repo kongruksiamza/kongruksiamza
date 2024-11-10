@@ -5,6 +5,7 @@
 - เรียนรู้การเขียนโปรแกรมภาษา Python (Python Guideline) [อ่านบทความ](https://github.com/kongruksiamza/python-guideline)
 - เรียนรู้การเขียนโปรแกรมภาษา Java (Java Guideline) [อ่านบทความ](https://github.com/kongruksiamza/java-guideline)
 - เรียนรู้การเขียนโปรแกรมภาษา C# (C# Guideline) [อ่านบทความ](https://github.com/kongruksiamza/cs-guideline)
+- เรียนรู้การเขียนโปรแกรมภาษา PHP (PHP Guideline) [อ่านบทความ](https://github.com/kongruksiamza/php-guideline)
 - เรียนรู้การจัดการฐานข้อมูล (Database Management) [อ่านบทความ](https://github.com/kongruksiamza/database-guideline)
 - เรียนรู้เครื่องมือพื้นฐานสำหรับโปรแกรมเมอร์มือใหม่ [อ่านบทความ](https://github.com/kongruksiamza/tools-guideline)
 - [เอกสารสอนเขียนโปรแกรมฟรี (.pdf)](https://github.com/kongruksiamza/ebook-for-education)
