@@ -10,7 +10,7 @@
 - เรียนรู้เครื่องมือพื้นฐานสำหรับโปรแกรมเมอร์มือใหม่ [อ่านบทความ](https://github.com/kongruksiamza/tools-guideline)
 - เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
 
-## 🔥 หลักสูตรฟรียอดนิยมบน Youtube
+## 🔥 หลักสูตรฟรียอดนิยมบน [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@KongRuksiamOfficial/courses)
 - หลักสูตรก้าวแรกสู่การเขียนโปรแกรมภาษา Python [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMBe14u-5pxxEsbJSbdxd1Vs)
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่น (Frontend Development) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMDLxLEWmPuTUGLpG1g_yCEK)
 - หลักสูตรการพัฒนาเกมด้วยโปรแกรม Unity (Game Development) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMD6PnzJ9f9xQuNPZsn3Bygh)
