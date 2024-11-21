@@ -22,7 +22,7 @@
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
 ## ⚙️ หลักสูตรที่จะเปิดให้เรียนฟรีเร็ว ๆ นี้ (Coming Soon)
-![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,vscode)
+![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,supabase,vscode)
 
 <h2>👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา</h2>
 <div id="youtube">
