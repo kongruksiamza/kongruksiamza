@@ -19,28 +19,15 @@
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
+## 👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา
+[![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark)](https://www.youtube.com/@KongRuksiamOfficial)
+[![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&theme=dark)](https://www.youtube.com/@KongRuksiamTutorial)
+
 ## ⚙️ หลักสูตรที่จะเปิดให้เรียนฟรีเร็ว ๆ นี้ (Coming Soon)
 ![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,supabase,github,htmx)
 
-<h2>👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา</h2>
-<div id="youtube">
-  <a href="https://www.youtube.com/@KongRuksiamOfficial">
-    <img src="https://yt3.googleusercontent.com/Usim25HI5zsz60nErm0QwhlQ6BmObK68x9SRIFZ0mrS1_BdIDqHYwyP7pvhFcUtm9MLzZQH0PQ=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@KongRuksiamTutorial">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_k_NmcINdh2WOvILC7zrBFAf9R8ymWoiIOlVuefirX96Wg=s160-c-k-c0x00ffffff-no-rj" alt="Youtube Badge" width="120"/>
-  </a>
-  <br>
-  <a href="https://www.youtube.com/@KongRuksiamOfficial">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCQ1r_4x-P-fETLIU4pqf98w" width="120"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@KongRuksiamTutorial">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCB6eDEzpqpiaZnDMzoje57Q" width="120"/>
-  </a>
-</div>
-<hr>
+--- 
+
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
