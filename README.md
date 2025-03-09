@@ -19,12 +19,12 @@
 - หลักสูตรการพัฒนาเว็บแอพพลิเคชั่นด้วยภาษา PHP & Framework [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMAex6QuPHmrmodslu_OyT5Y)
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
+## ⚙️ หลักสูตรที่จะเปิดให้เรียนฟรีเร็ว ๆ นี้ (Coming Soon)
+![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,supabase,github,htmx)
+
 ## 👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา
 [![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
 [![Youtube KongRuksiam Tutorial](https://youtube-stats-card.vercel.app/api?channelid=UCB6eDEzpqpiaZnDMzoje57Q&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamTutorial)
-
-## ⚙️ หลักสูตรที่จะเปิดให้เรียนฟรีเร็ว ๆ นี้ (Coming Soon)
-![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,fastapi,kubernetes,lua,nestjs,nginx,prisma,r,supabase,github,htmx)
 
 --- 
 
