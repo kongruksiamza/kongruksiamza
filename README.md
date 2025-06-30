@@ -20,7 +20,7 @@
 - หลักสูตรการจัดการฐานข้อมูล (Database SQL & NOSQL) [เข้าเรียน](https://www.youtube.com/playlist?list=PLltVQYLz1BMB9nomnrECunG11vI5pC-af)
 
 ## ⚙️ หลักสูตรที่จะเปิดให้เรียนฟรีเร็ว ๆ นี้ (Coming Soon)
-![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,django,fastapi,kubernetes,lua,prisma,supabase,github,unity)
+![pending](https://skillicons.dev/icons?i=angular,bun,blender,docker,django,fastapi,kubernetes,lua,nest,prisma,supabase,github,unity)
 
 ## 👋 เรียนเขียนโปรแกรมฟรีผ่านช่อง Youtube ของเรา
 [![Youtube KongRuksiam Official](https://youtube-stats-card.vercel.app/api?channelid=UCQ1r_4x-P-fETLIU4pqf98w&theme=dark&layout=extruded)](https://www.youtube.com/@KongRuksiamOfficial)
